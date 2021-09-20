@@ -963,3 +963,12 @@ footer ul:nth-of-type(2) li {
 		display: none;
 	}
 }
+
+.work-desc-cont {
+	padding: 10px;
+	text-align: center;
+}
+
+.work-desc-cont p {
+	line-height: 1.5;
+}
